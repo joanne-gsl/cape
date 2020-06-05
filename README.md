@@ -18,8 +18,7 @@ As of v1.0.0, CAPE is in the beta phase. Check out the
 All user documentation is available at the [CAPE docs website](https://docs.cape.sh/docs/).
 
 ## CAPE in Action
-
-[![CAPE Demo](https://cape-assets.netlify.app/images/cape-logo.png)](https://youtu.be/4KJt8NXTO8E)
+[![CAPE](assets/logo.png)](https://youtu.be/4KJt8NXTO8E "CAPE INTRO")
 
 ## Features
 

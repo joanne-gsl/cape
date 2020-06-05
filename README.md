@@ -24,7 +24,7 @@ All user documentation is available at the [CAPE docs website](https://docs.cape
 
 * Multi-Cluster Data management
 * Multi-Cluster Application management
-
+<hr />
 ## Installing CAPE
 
 ### Downloading a binary from GitHub Releases  
@@ -49,6 +49,7 @@ kubectl -n cape wait --for=condition=available --timeout=600s deployment/web
 #wait for completion of CAPE deployment
 open http://127.0.0.1.nip.io
 ```
+<hr />
 
 ## Kubernetes Versions Compatibility
 

@@ -1,17 +1,4 @@
 
-
-## Welcome to CAPE community ## 
-
-### Getting Started
-https://docs.cape.sh/docs/simple-install
-
-### Read more
-
-
-### Submit issue
-https://github.com/biqmind/cape/issues/new
-
-
 # CAPE
 
 <p align="center"><img src="https://cape-assets.netlify.app/images/cape-logo.png" width="700px" /></p>

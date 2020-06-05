@@ -24,7 +24,9 @@ All user documentation is available at the [CAPE docs website](https://docs.cape
 
 * Multi-Cluster Data management
 * Multi-Cluster Application management
-<hr />
+
+<hr /> 
+
 ## Installing CAPE
 
 ### Downloading a binary from GitHub Releases  

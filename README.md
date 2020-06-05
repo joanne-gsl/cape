@@ -1,7 +1,7 @@
 
 # CAPE
 
-<p align="center" style="background-color:#23327c"><img src="https://cape-assets.netlify.app/images/cape-logo.png" width="700px" /></p>
+<p align="center" style="background-color:#23327c"><img src="docs/logo.png" width="700px" /></p>
 
 
 

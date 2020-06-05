@@ -54,8 +54,8 @@ open http://127.0.0.1.nip.io
 ## Kubernetes Versions Compatibility
 
 
-| CAPE Version | 1.18 | 1.17 | 1.16 | 1.15 | 1.14  | Supported providers                                                |
-| --------------- | ---- | ---- | ---- | ---- | ---- | --------- | ------------------------------------------------------------------ |
+| CAPE Version | 1.18 | 1.17 | 1.16 | 1.15 | 1.14  | Supported providers|
+| --------------- | ---- | ---- | ---- | ---- | ----  | -----------------|
 | v1.0.0        | +    | +    | +    | +    | -        | AWS, DigitalOcean, GCE,  |
 | v1.0.0        | -    | -    | +    | +    | +        | AWS, DigitalOcean, GCE,  |
 

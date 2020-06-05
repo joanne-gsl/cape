@@ -1,6 +1,6 @@
 
 
-## ## Welcome to CAPE community ## 
+## Welcome to CAPE community ## 
 
 ### Getting Started
 https://docs.cape.sh/docs/simple-install
